@@ -25,6 +25,11 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name=".Chat">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tracknba.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
