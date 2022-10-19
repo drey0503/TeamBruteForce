@@ -11,3 +11,4 @@ This is for the Source Control Milestone CSCE490
 # Authors
 Jacob Krawczyk: krawczj@email.sc.edu
 Rahul Subramanian: rahuls@email.sc.edu
+Dreyson Clark: dreyson@email.sc.edu
