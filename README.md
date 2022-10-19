@@ -10,3 +10,4 @@ This is for the Source Control Milestone CSCE490
 ## Running Tests
 # Authors
 Jacob Krawczyk: krawczj@email.sc.edu
+Rahul Subramanian: rahuls@email.sc.edu
