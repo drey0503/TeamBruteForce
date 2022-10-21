@@ -23,3 +23,4 @@ The google style guide we will be using for this project is https://google.githu
 Jacob Krawczyk: krawczj@email.sc.edu
 Rahul Subramanian: rahuls@email.sc.edu
 Dreyson Clark: dreyson@email.sc.edu
+Gonzalo Rodas-Guzman: gonzalor@email.sc.edu
