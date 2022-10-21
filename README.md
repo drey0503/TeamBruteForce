@@ -7,13 +7,16 @@ their favorite teams and players to display on their homepage.
 Notable features include: user created predictions for future events, community chatroom where 
 user can create discussions and post opinions on specific topics.
 
-
- User needs to download correspond TrackNBA apk file. Once application is downloaded, 
- user will be prompted to create a login. 
-
 The google style guide we will be using for this project is https://google.github.io/styleguide/javaguide.html
 ## External Requirements
+In order to install the TrackNBA application:
+User needs to download corresponding TrackNBA apk file. 
+##we need to put commands above
+
 ## Setup
+Once the user installs the app, there will be a login process the user will need to follow once.
+The user will also be prompted to make selections regarding NBA teams. 
+
 ## Running
 ## Deployment
 # Testing
