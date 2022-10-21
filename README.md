@@ -7,7 +7,7 @@ their favorite teams and players to display on their homepage.
 Notable features include: user created predictions for future events, community chatroom where 
 user can create discussions and post opinions on specific topics.
 
-#installation instructions 
+
  User needs to download correspond TrackNBA apk file. Once application is downloaded, 
  user will be prompted to create a login. 
 
