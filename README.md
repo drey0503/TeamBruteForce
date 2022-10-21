@@ -14,6 +14,8 @@ User needs to download corresponding TrackNBA apk file.
 ##we need to put commands above
 
 ## Setup
+Once the user installs the app, there will be a login process the user will need to follow once.
+The user will also be prompted to make selections regarding NBA teams. 
 
 ## Running
 ## Deployment
