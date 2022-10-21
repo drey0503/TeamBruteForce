@@ -19,13 +19,16 @@ The user will also be prompted to make selections regarding NBA teams. <br/>
 
 ## Running
 ## Deployment
+To run this app on a mobile device, you need to download the .apk on that device. 
+When we tested running an android studio app on an android smartphone, we sent the .apk
+file to the phone and downloaded it on the device.
+
 # Testing
 
 Leaving blank for now
 ## Testing Technology
 ## Running Tests
 # Authors
-Gonzalo delete this <br/>
 Jacob Krawczyk: krawczj@email.sc.edu <br/>
 Rahul Subramanian: rahuls@email.sc.edu <br/>
 Dreyson Clark: dreyson@email.sc.edu <br/>
