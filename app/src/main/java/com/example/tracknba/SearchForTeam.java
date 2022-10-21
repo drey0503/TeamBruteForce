@@ -105,8 +105,7 @@ public class SearchForTeam extends AppCompatActivity implements View.OnClickList
                 String teamn = teamo.get("name").toString();
                 String teamc = teamo.get("city").toString();
                 String teama = teamo.get("abbreviation").toString();
-                if (teamName.toLowerCase().contains(teamfn.toLowerCase())||teamName.toLowerCase().contains(teamn.toLowerCase())||
-                        teamName.toLowerCase().contains(teamc.toLowerCase())||teamName.toLowerCase().contains(teama.toLowerCase())) {
+                if (teamfn.equalsIgnoreCase(teamName)||teamn.equalsIgnoreCase(teamName)||teamc.equalsIgnoreCase(teamName)||teama.equalsIgnoreCase(teamName)) {
                     String result = "Name: " + teamfn + " (" + teama + ")" +"\n";
                     result += "City: " + teamc + "\n";
                     result += "Conference: " + teamo.get("conference") + "\n";
