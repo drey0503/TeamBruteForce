@@ -28,6 +28,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.chat:
                 startActivity(new Intent(this, Chat.class));
                 return true;
+            case R.id.settings:
+                startActivity(new Intent(this, Settings.class));
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
