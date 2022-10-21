@@ -16,6 +16,11 @@
         android:id="@+id/settings"
         android:icon="@drawable/ic_baseline_chat_24">
     </item>
+    <item
+        android:title="Search For Team"
+        android:id="@+id/search_for_team"
+        android:icon="@drawable/ic_baseline_chat_24">
+    </item>
 
 
 
