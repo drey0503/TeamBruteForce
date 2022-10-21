@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.settings:
                 startActivity(new Intent(this, Settings.class));
                 return true;
+            case R.id.search_for_team:
+                startActivity(new Intent(this, SearchForTeam.class));
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
