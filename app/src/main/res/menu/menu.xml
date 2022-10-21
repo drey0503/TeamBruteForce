@@ -21,6 +21,11 @@
         android:id="@+id/search_for_team"
         android:icon="@drawable/ic_baseline_chat_24">
     </item>
+    <item
+        android:title="Compare Players"
+        android:id="@+id/compare_players"
+        android:icon="@drawable/ic_baseline_chat_24">
+    </item>
 
 
 
