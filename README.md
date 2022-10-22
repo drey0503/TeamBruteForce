@@ -18,6 +18,9 @@ Once the user installs the app, there will be a login process the user will need
 The user will also be prompted to make selections regarding NBA teams. <br/>
 
 ## Running
+If a developer were to clone this report they would have to set up the virtual Pixel 2 API 30, and press 
+the play button to run the application.
+
 ## Deployment
 To run this app on a mobile device, you need to download the .apk on that device. 
 When we tested running an android studio app on an android smartphone, we sent the .apk
