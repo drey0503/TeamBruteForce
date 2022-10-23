@@ -37,7 +37,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.compare_players:
                 startActivity(new Intent(this, ComparePlayers.class));
                 return true;
-
+            case R.id.login:
+                startActivity(new Intent(this, Login.class));
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
