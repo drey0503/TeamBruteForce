@@ -26,7 +26,11 @@
         android:id="@+id/compare_players"
         android:icon="@drawable/ic_baseline_chat_24">
     </item>
-
+    <item
+        android:title="Login"
+        android:id="@+id/login"
+        android:icon="@drawable/ic_baseline_chat_24">
+    </item>
 
 
 </menu>

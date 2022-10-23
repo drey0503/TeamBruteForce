@@ -46,6 +46,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.tracknba.MainActivity" />
         </activity>
+        <activity android:name=".Login">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.tracknba.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
